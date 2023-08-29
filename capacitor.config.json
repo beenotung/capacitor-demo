@@ -1,0 +1,8 @@
+{
+  "appId": "io.tecky.vanilla.demo",
+  "appName": "ionic vanilla",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ionic-vanilla-router-demo",
+  "version": "1.0.0",
+  "description": "This repo demostrates how to use ionic components and it's built-in client-side rendering router to build single-page-app in vanilla js (without angular/vue/react nor stencil).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^5.3.0",
+    "@capacitor/cli": "^5.3.0",
+    "@capacitor/core": "^5.3.0"
+  }
+}
